@@ -1,0 +1,27 @@
+{
+  "project_name": "",
+  "language": "",
+  "framework": "",
+  "main_branch": "main",
+  "branch_prefix": "ai",
+  "source_dirs": ["src/"],
+  "test_dir": "tests/",
+  "formatter": {
+    "command": "",
+    "args": [],
+    "check_args": [],
+    "install": ""
+  },
+  "linter": {
+    "command": "",
+    "args": [],
+    "install": ""
+  },
+  "test_runner": {
+    "command": "",
+    "args": [],
+    "install": ""
+  },
+  "commit_language": "ja",
+  "pr_language": "ja"
+}

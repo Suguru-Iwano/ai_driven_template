@@ -1,0 +1,16 @@
+# === Common ===
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/settings.json
+
+# Claude Code local settings
+.claude/settings.local.json
